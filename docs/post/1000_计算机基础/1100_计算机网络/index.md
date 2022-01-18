@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**icql/icql** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icql/icql** is a ✨ _special_ ✨ repository because its `index.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
