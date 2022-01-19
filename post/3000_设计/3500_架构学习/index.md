@@ -1,5 +1,5 @@
 
-## 文章集
+## 架构学习
 
 * [3511_architecture_概述](3511_architecture_概述)
 * [3551_architecture_DDD基础](3551_architecture_DDD基础)

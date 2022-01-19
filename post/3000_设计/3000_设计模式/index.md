@@ -1,5 +1,5 @@
 
-## 文章集
+## 设计模式
 
 * [3001_designpattern_设计原则](3001_designpattern_设计原则)
 * [3002_designpattern_创建型](3002_designpattern_创建型)
