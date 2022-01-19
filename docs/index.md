@@ -1,5 +1,5 @@
 
-![文章集](resource/serials_header.jpg)
+![文章集](resource/index_header.jpg)
 
 <hr/>
 
@@ -12,7 +12,6 @@
 
 ## 『**java**』
 * [**se篇**](post/2000_java/2000_java)（java se、jdk相关源码等）
-* **ee篇**（java ee相关等）todo...
 * [**jvm篇**](post/2000_java/2100_jvm)（字节码、类加载、内存管理、垃圾回收、编译优化、实战等）
 * [**并发篇**](post/2000_java/2200_java_concurrent)（并发内存模型、并发关键字、原子操作、线程基础、juc源码等）
 * [**spring篇**](post/2000_java/2300_spring)（spring相关源码）
