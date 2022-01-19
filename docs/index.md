@@ -1,5 +1,5 @@
 
-![文章集](resource/index_header.jpg)
+![文章集](resource/00_index_header.gif)
 
 <hr/>
 
