@@ -36,7 +36,7 @@ comments: true
 ## CAP理论
 
 **一致性 consistency：** 所有节点在同一时间的数据完全一致（强一致性）
-**可用性 availablility：** 服务在正常响应时间内一直可用
+**可用性 availability：** 服务在正常响应时间内一直可用
 **分区容错性 partition-tolerance：** 在网络分区时（脑裂），仍能提供满足一致性或可用性的服务
 
 分布式系统网络通信不可靠，所以一定要满足 分区容错性P
